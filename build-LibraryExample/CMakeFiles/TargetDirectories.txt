@@ -1,0 +1,8 @@
+/home/kacper/NiOdSR/Lab4/build-LibraryExample/CMakeFiles/install/local.dir
+/home/kacper/NiOdSR/Lab4/build-LibraryExample/CMakeFiles/install.dir
+/home/kacper/NiOdSR/Lab4/build-LibraryExample/CMakeFiles/list_install_components.dir
+/home/kacper/NiOdSR/Lab4/build-LibraryExample/CMakeFiles/rebuild_cache.dir
+/home/kacper/NiOdSR/Lab4/build-LibraryExample/CMakeFiles/edit_cache.dir
+/home/kacper/NiOdSR/Lab4/build-LibraryExample/CMakeFiles/install/strip.dir
+/home/kacper/NiOdSR/Lab4/build-LibraryExample/CMakeFiles/robotTest.dir
+/home/kacper/NiOdSR/Lab4/build-LibraryExample/CMakeFiles/Robot.dir

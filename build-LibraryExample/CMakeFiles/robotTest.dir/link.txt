@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -DNDEBUG  -rdynamic CMakeFiles/robotTest.dir/main.cpp.o  -o /home/kacper/NiOdSR/Lab4/LibraryExample/build/bin/robotTest  /home/kacper/NiOdSR/Lab4/LibraryExample/build/lib/libRobot.a 

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kacper/NiOdSR/Lab4/LibraryExample/include/Robot/LabMate.h
+robot.h
+/home/kacper/NiOdSR/Lab4/LibraryExample/include/Robot/robot.h
+memory
+-
+iostream
+-
+
+/home/kacper/NiOdSR/Lab4/LibraryExample/include/Robot/MessorII.h
+robot.h
+/home/kacper/NiOdSR/Lab4/LibraryExample/include/Robot/robot.h
+memory
+-
+iostream
+-
+
+/home/kacper/NiOdSR/Lab4/LibraryExample/include/Robot/robot.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/kacper/NiOdSR/Lab4/useLibExample/main.cpp
+Robot/LabMate.h
+/home/kacper/NiOdSR/Lab4/useLibExample/Robot/LabMate.h
+Robot/MessorII.h
+/home/kacper/NiOdSR/Lab4/useLibExample/Robot/MessorII.h
+iostream
+-
+memory
+-
+

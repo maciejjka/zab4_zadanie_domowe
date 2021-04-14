@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/kacper/NiOdSR/Lab4/LibraryExample/build/lib/libRobot.a  CMakeFiles/Robot.dir/src/Robot/LabMate.cpp.o CMakeFiles/Robot.dir/src/Robot/MessorII.cpp.o
+/usr/bin/ranlib /home/kacper/NiOdSR/Lab4/LibraryExample/build/lib/libRobot.a

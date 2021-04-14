@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -DNDEBUG  -rdynamic CMakeFiles/useRobotLib.dir/main.cpp.o  -o useRobotLib   -L/home/kacper/NiOdSR/Lab4/LibraryExample/build/lib  -Wl,-rpath,/home/kacper/NiOdSR/Lab4/LibraryExample/build/lib: -lRobot 
